@@ -1,0 +1,61 @@
+
+html {
+	height: 1500px;
+  font-size: 0;
+	}
+
+body {
+  font-size: 24px;
+}
+
+.parallax {
+	position: fixed;
+	}
+
+#muzine{
+    width: 30%;
+    margin-top: -1.8rem;
+    top: 100px;
+    left: 25px;
+	z-index: 5;
+    
+}
+
+
+
+
+
+.skyline {
+	top: 300px;
+	margin-top: -4.96rem;
+	left: 40%;
+}
+
+.blimp {
+	top: 420px;
+	margin-top: -7.39rem;
+	left: 59%;
+}
+
+.gherkin {
+	top: 200px;
+	margin-top: -2.99rem;
+	left: 80%;
+	z-index: 10;
+}
+
+
+
+
+
+html {
+	background: url(fundo.jpg) 100% 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+img {
+	width: 15%;
+}
+
